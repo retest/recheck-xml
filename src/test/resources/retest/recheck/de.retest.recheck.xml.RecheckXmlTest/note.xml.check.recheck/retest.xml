@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reTestXmlDataContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" reTestVersion="2.4.1" dataType="de.retest.ui.descriptors.SutState" dataTypeVersion="1">
+	<data xsi:type="sutState">
+		<descriptors screenId="1">
+			<identifyingAttributes>
+				<attributes>
+					<attribute key="path" xsi:type="pathAttribute">note_0</attribute>
+				</attributes>
+			</identifyingAttributes>
+			<attributes>
+				<attributes>
+					<entry>
+						<key>date</key>
+						<value xsi:type="xsd:string">today</value>
+					</entry>
+				</attributes>
+			</attributes>
+			<containedComponents>
+				<identifyingAttributes>
+					<attributes>
+						<attribute key="path" xsi:type="pathAttribute">note_0/to_0</attribute>
+					</attributes>
+				</identifyingAttributes>
+				<attributes>
+					<attributes>
+						<entry>
+							<key>content</key>
+							<value xsi:type="xsd:string">Tove</value>
+						</entry>
+					</attributes>
+				</attributes>
+			</containedComponents>
+			<containedComponents>
+				<identifyingAttributes>
+					<attributes>
+						<attribute key="path" xsi:type="pathAttribute">note_0/from_0</attribute>
+					</attributes>
+				</identifyingAttributes>
+				<attributes>
+					<attributes>
+						<entry>
+							<key>content</key>
+							<value xsi:type="xsd:string">Jani</value>
+						</entry>
+					</attributes>
+				</attributes>
+			</containedComponents>
+			<containedComponents>
+				<identifyingAttributes>
+					<attributes>
+						<attribute key="path" xsi:type="pathAttribute">note_0/heading_0</attribute>
+					</attributes>
+				</identifyingAttributes>
+				<attributes>
+					<attributes>
+						<entry>
+							<key>content</key>
+							<value xsi:type="xsd:string">Reminder</value>
+						</entry>
+					</attributes>
+				</attributes>
+			</containedComponents>
+			<containedComponents>
+				<identifyingAttributes>
+					<attributes>
+						<attribute key="path" xsi:type="pathAttribute">note_0/body_0</attribute>
+					</attributes>
+				</identifyingAttributes>
+				<attributes>
+					<attributes>
+						<entry>
+							<key>content</key>
+							<value xsi:type="xsd:string">Don't forget me this weekend!</value>
+						</entry>
+					</attributes>
+				</attributes>
+			</containedComponents>
+		</descriptors>
+	</data>
+</reTestXmlDataContainer>

@@ -1,0 +1,2561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reTestXmlDataContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" reTestVersion="2.4.1" dataType="de.retest.ui.descriptors.SutState" dataTypeVersion="1">
+	<data xsi:type="sutState">
+		<descriptors screenId="1">
+			<identifyingAttributes>
+				<attributes>
+					<attribute key="path" xsi:type="pathAttribute">CATALOG_0</attribute>
+				</attributes>
+			</identifyingAttributes>
+			<attributes/>
+			<containedComponents>
+				<identifyingAttributes>
+					<attributes>
+						<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_0</attribute>
+					</attributes>
+				</identifyingAttributes>
+				<attributes/>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_0/TITLE_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Empire Burlesque</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_0/ARTIST_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Bob Dylan</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_0/COUNTRY_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">USA</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_0/COMPANY_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Columbia</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_0/PRICE_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">10.90</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_0/YEAR_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">1985</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+			</containedComponents>
+			<containedComponents>
+				<identifyingAttributes>
+					<attributes>
+						<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_1</attribute>
+					</attributes>
+				</identifyingAttributes>
+				<attributes/>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_1/TITLE_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Hide your heart</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_1/ARTIST_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Bonnie Tyler</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_1/COUNTRY_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">UK</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_1/COMPANY_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">CBS Records</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_1/PRICE_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">9.90</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_1/YEAR_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">1988</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+			</containedComponents>
+			<containedComponents>
+				<identifyingAttributes>
+					<attributes>
+						<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_2</attribute>
+					</attributes>
+				</identifyingAttributes>
+				<attributes/>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_2/TITLE_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Greatest Hits</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_2/ARTIST_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Dolly Parton</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_2/COUNTRY_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">USA</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_2/COMPANY_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">RCA</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_2/PRICE_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">9.90</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_2/YEAR_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">1982</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+			</containedComponents>
+			<containedComponents>
+				<identifyingAttributes>
+					<attributes>
+						<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_3</attribute>
+					</attributes>
+				</identifyingAttributes>
+				<attributes/>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_3/TITLE_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Still got the blues</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_3/ARTIST_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Gary Moore</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_3/COUNTRY_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">UK</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_3/COMPANY_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Virgin records</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_3/PRICE_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">10.20</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_3/YEAR_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">1990</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+			</containedComponents>
+			<containedComponents>
+				<identifyingAttributes>
+					<attributes>
+						<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_4</attribute>
+					</attributes>
+				</identifyingAttributes>
+				<attributes/>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_4/TITLE_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Eros</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_4/ARTIST_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Eros Ramazzotti</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_4/COUNTRY_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">EU</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_4/COMPANY_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">BMG</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_4/PRICE_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">9.90</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_4/YEAR_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">1997</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+			</containedComponents>
+			<containedComponents>
+				<identifyingAttributes>
+					<attributes>
+						<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_5</attribute>
+					</attributes>
+				</identifyingAttributes>
+				<attributes/>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_5/TITLE_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">One night only</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_5/ARTIST_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Bee Gees</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_5/COUNTRY_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">UK</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_5/COMPANY_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Polydor</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_5/PRICE_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">10.90</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_5/YEAR_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">1998</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+			</containedComponents>
+			<containedComponents>
+				<identifyingAttributes>
+					<attributes>
+						<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_6</attribute>
+					</attributes>
+				</identifyingAttributes>
+				<attributes/>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_6/TITLE_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Sylvias Mother</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_6/ARTIST_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Dr.Hook</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_6/COUNTRY_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">UK</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_6/COMPANY_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">CBS</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_6/PRICE_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">8.10</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_6/YEAR_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">1973</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+			</containedComponents>
+			<containedComponents>
+				<identifyingAttributes>
+					<attributes>
+						<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_7</attribute>
+					</attributes>
+				</identifyingAttributes>
+				<attributes/>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_7/TITLE_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Maggie May</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_7/ARTIST_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Rod Stewart</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_7/COUNTRY_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">UK</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_7/COMPANY_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Pickwick</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_7/PRICE_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">8.50</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_7/YEAR_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">1990</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+			</containedComponents>
+			<containedComponents>
+				<identifyingAttributes>
+					<attributes>
+						<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_8</attribute>
+					</attributes>
+				</identifyingAttributes>
+				<attributes/>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_8/TITLE_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Romanza</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_8/ARTIST_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Andrea Bocelli</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_8/COUNTRY_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">EU</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_8/COMPANY_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Polydor</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_8/PRICE_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">10.80</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_8/YEAR_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">1996</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+			</containedComponents>
+			<containedComponents>
+				<identifyingAttributes>
+					<attributes>
+						<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_9</attribute>
+					</attributes>
+				</identifyingAttributes>
+				<attributes/>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_9/TITLE_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">When a man loves a woman</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_9/ARTIST_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Percy Sledge</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_9/COUNTRY_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">USA</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_9/COMPANY_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Atlantic</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_9/PRICE_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">8.70</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_9/YEAR_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">1987</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+			</containedComponents>
+			<containedComponents>
+				<identifyingAttributes>
+					<attributes>
+						<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_10</attribute>
+					</attributes>
+				</identifyingAttributes>
+				<attributes/>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_10/TITLE_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Black angel</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_10/ARTIST_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Savage Rose</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_10/COUNTRY_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">EU</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_10/COMPANY_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Mega</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_10/PRICE_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">10.90</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_10/YEAR_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">1995</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+			</containedComponents>
+			<containedComponents>
+				<identifyingAttributes>
+					<attributes>
+						<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_11</attribute>
+					</attributes>
+				</identifyingAttributes>
+				<attributes/>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_11/TITLE_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">1999 Grammy Nominees</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_11/ARTIST_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Many</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_11/COUNTRY_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">USA</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_11/COMPANY_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Grammy</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_11/PRICE_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">10.20</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_11/YEAR_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">1999</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+			</containedComponents>
+			<containedComponents>
+				<identifyingAttributes>
+					<attributes>
+						<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_12</attribute>
+					</attributes>
+				</identifyingAttributes>
+				<attributes/>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_12/TITLE_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">For the good times</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_12/ARTIST_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Kenny Rogers</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_12/COUNTRY_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">UK</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_12/COMPANY_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Mucik Master</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_12/PRICE_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">8.70</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_12/YEAR_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">1995</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+			</containedComponents>
+			<containedComponents>
+				<identifyingAttributes>
+					<attributes>
+						<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_13</attribute>
+					</attributes>
+				</identifyingAttributes>
+				<attributes/>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_13/TITLE_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Big Willie style</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_13/ARTIST_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Will Smith</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_13/COUNTRY_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">USA</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_13/COMPANY_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Columbia</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_13/PRICE_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">9.90</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_13/YEAR_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">1997</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+			</containedComponents>
+			<containedComponents>
+				<identifyingAttributes>
+					<attributes>
+						<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_14</attribute>
+					</attributes>
+				</identifyingAttributes>
+				<attributes/>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_14/TITLE_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Tupelo Honey</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_14/ARTIST_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Van Morrison</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_14/COUNTRY_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">UK</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_14/COMPANY_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Polydor</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_14/PRICE_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">8.20</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_14/YEAR_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">1971</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+			</containedComponents>
+			<containedComponents>
+				<identifyingAttributes>
+					<attributes>
+						<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_15</attribute>
+					</attributes>
+				</identifyingAttributes>
+				<attributes/>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_15/TITLE_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Soulsville</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_15/ARTIST_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Jorn Hoel</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_15/COUNTRY_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Norway</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_15/COMPANY_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">WEA</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_15/PRICE_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">7.90</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_15/YEAR_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">1996</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+			</containedComponents>
+			<containedComponents>
+				<identifyingAttributes>
+					<attributes>
+						<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_16</attribute>
+					</attributes>
+				</identifyingAttributes>
+				<attributes/>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_16/TITLE_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">The very best of</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_16/ARTIST_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Cat Stevens</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_16/COUNTRY_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">UK</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_16/COMPANY_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Island</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_16/PRICE_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">8.90</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_16/YEAR_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">1990</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+			</containedComponents>
+			<containedComponents>
+				<identifyingAttributes>
+					<attributes>
+						<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_17</attribute>
+					</attributes>
+				</identifyingAttributes>
+				<attributes/>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_17/TITLE_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Stop</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_17/ARTIST_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Sam Brown</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_17/COUNTRY_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">UK</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_17/COMPANY_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">A and M</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_17/PRICE_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">8.90</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_17/YEAR_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">1988</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+			</containedComponents>
+			<containedComponents>
+				<identifyingAttributes>
+					<attributes>
+						<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_18</attribute>
+					</attributes>
+				</identifyingAttributes>
+				<attributes/>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_18/TITLE_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Bridge of Spies</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_18/ARTIST_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">T'Pau</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_18/COUNTRY_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">UK</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_18/COMPANY_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Siren</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_18/PRICE_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">7.90</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_18/YEAR_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">1987</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+			</containedComponents>
+			<containedComponents>
+				<identifyingAttributes>
+					<attributes>
+						<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_19</attribute>
+					</attributes>
+				</identifyingAttributes>
+				<attributes/>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_19/TITLE_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Private Dancer</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_19/ARTIST_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Tina Turner</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_19/COUNTRY_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">UK</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_19/COMPANY_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Capitol</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_19/PRICE_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">8.90</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_19/YEAR_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">1983</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+			</containedComponents>
+			<containedComponents>
+				<identifyingAttributes>
+					<attributes>
+						<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_20</attribute>
+					</attributes>
+				</identifyingAttributes>
+				<attributes/>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_20/TITLE_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Midt om natten</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_20/ARTIST_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Kim Larsen</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_20/COUNTRY_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">EU</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_20/COMPANY_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Medley</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_20/PRICE_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">7.80</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_20/YEAR_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">1983</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+			</containedComponents>
+			<containedComponents>
+				<identifyingAttributes>
+					<attributes>
+						<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_21</attribute>
+					</attributes>
+				</identifyingAttributes>
+				<attributes/>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_21/TITLE_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Pavarotti Gala Concert</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_21/ARTIST_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Luciano Pavarotti</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_21/COUNTRY_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">UK</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_21/COMPANY_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">DECCA</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_21/PRICE_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">9.90</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_21/YEAR_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">1991</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+			</containedComponents>
+			<containedComponents>
+				<identifyingAttributes>
+					<attributes>
+						<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_22</attribute>
+					</attributes>
+				</identifyingAttributes>
+				<attributes/>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_22/TITLE_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">The dock of the bay</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_22/ARTIST_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Otis Redding</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_22/COUNTRY_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">USA</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_22/COMPANY_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Stax Records</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_22/PRICE_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">7.90</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_22/YEAR_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">1968</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+			</containedComponents>
+			<containedComponents>
+				<identifyingAttributes>
+					<attributes>
+						<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_23</attribute>
+					</attributes>
+				</identifyingAttributes>
+				<attributes/>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_23/TITLE_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Picture book</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_23/ARTIST_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Simply Red</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_23/COUNTRY_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">EU</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_23/COMPANY_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Elektra</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_23/PRICE_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">7.20</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_23/YEAR_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">1985</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+			</containedComponents>
+			<containedComponents>
+				<identifyingAttributes>
+					<attributes>
+						<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_24</attribute>
+					</attributes>
+				</identifyingAttributes>
+				<attributes/>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_24/TITLE_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Red</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_24/ARTIST_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">The Communards</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_24/COUNTRY_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">UK</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_24/COMPANY_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">London</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_24/PRICE_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">7.80</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_24/YEAR_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">1987</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+			</containedComponents>
+			<containedComponents>
+				<identifyingAttributes>
+					<attributes>
+						<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_25</attribute>
+					</attributes>
+				</identifyingAttributes>
+				<attributes/>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_25/TITLE_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Unchain my heart</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_25/ARTIST_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">Joe Cocker</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_25/COUNTRY_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">USA</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_25/COMPANY_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">EMI</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_25/PRICE_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">8.20</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+				<containedComponents>
+					<identifyingAttributes>
+						<attributes>
+							<attribute key="path" xsi:type="pathAttribute">CATALOG_0/CD_25/YEAR_0</attribute>
+						</attributes>
+					</identifyingAttributes>
+					<attributes>
+						<attributes>
+							<entry>
+								<key>content</key>
+								<value xsi:type="xsd:string">1987</value>
+							</entry>
+						</attributes>
+					</attributes>
+				</containedComponents>
+			</containedComponents>
+		</descriptors>
+	</data>
+</reTestXmlDataContainer>
