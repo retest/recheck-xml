@@ -11,23 +11,24 @@ public class RecheckXml implements Recheck {
 	private final Recheck delegate;
 
 	public RecheckXml() {
-		this.delegate = new RecheckImpl();
+		delegate = new RecheckImpl();
 	}
 
-	public void checkXml(File xmlFile) {
-		delegate.startTest(xmlFile.getName());
-		delegate.check(xmlFile, "");
+	public void checkXml( final File xmlFile ) {
+		delegate.startTest( xmlFile.getName() );
+		delegate.check( xmlFile, "check" );
 		delegate.capTest();
 	}
 
 	@Override
-	public void check(Object toVerify, String stepName) throws IllegalStateException {
-		delegate.check(toVerify, stepName);
+	public void check( final Object toVerify, final String stepName ) throws IllegalStateException {
+		delegate.check( toVerify, stepName );
 	}
 
 	@Override
-	public void check(Object toVerify, RecheckAdapter adapter, String stepName) throws IllegalArgumentException {
-		delegate.check(toVerify, adapter, stepName);
+	public void check( final Object toVerify, final RecheckAdapter adapter, final String stepName )
+			throws IllegalArgumentException {
+		delegate.check( toVerify, adapter, stepName );
 	}
 
 	@Override
@@ -36,8 +37,8 @@ public class RecheckXml implements Recheck {
 	}
 
 	@Override
-	public void startTest(String testName) {
-		delegate.startTest(testName);
+	public void startTest( final String testName ) {
+		delegate.startTest( testName );
 	}
 
 	@Override

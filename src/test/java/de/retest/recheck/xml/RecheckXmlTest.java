@@ -7,7 +7,7 @@ import org.junit.Test;
 
 public class RecheckXmlTest {
 
-	private final File xmlDir = new File("src/test/resources/xml");
+	private final File xmlDir = new File( "src/test/resources/xml" );
 
 	private RecheckXml re;
 
@@ -19,11 +19,11 @@ public class RecheckXmlTest {
 
 	@Test
 	public void check_note() {
-		re.checkXml(new File(xmlDir, "note.xml"));
+		re.checkXml( new File( xmlDir, "note.xml" ) );
 	}
 
 	@Test
 	public void check_cd_catalog() {
-		re.checkXml(new File(xmlDir, "cd_catalog.xml"));
+		re.checkXml( new File( xmlDir, "cd_catalog.xml" ) );
 	}
 }
