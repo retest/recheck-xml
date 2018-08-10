@@ -38,7 +38,9 @@ Download recheck-xml [directly](https://github.com/retest/recheck-xml/releases/)
 
 ### Prerequisites
 
-Currently only available as a Java API with support for JUnit 4.
+Currently available as a Java API with support for JUnit 4. 
+
+Add any logging facility you want, that is compatible with [SLF4j](https://www.slf4j.org/).
 
 
 ## Building
