@@ -2,17 +2,18 @@ package de.retest.recheck.xml;
 
 import java.io.File;
 
-import org.junit.Before;
+import org.junit.AfterClass;
+import org.junit.BeforeClass;
 import org.junit.Test;
 
 public class RecheckXmlTest {
 
 	private final File xmlDir = new File( "src/test/resources/xml" );
 
-	private RecheckXml re;
+	private static RecheckXml re;
 
-	@Before
-	public void setup() {
+	@BeforeClass
+	public static void setup() {
 		// Use the default implementation.
 		re = new RecheckXml();
 	}
@@ -25,5 +26,10 @@ public class RecheckXmlTest {
 	@Test
 	public void check_cd_catalog() {
 		re.checkXml( new File( xmlDir, "cd_catalog.xml" ) );
+	}
+
+	@AfterClass
+	public static void teardown() {
+		re.cap();
 	}
 }
