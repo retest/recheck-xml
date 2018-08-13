@@ -38,7 +38,7 @@ public class XmlToRootConverter {
 					return Collections.singleton( (RootElement) converter.convert( eventReader ) );
 				}
 			}
-			return Collections.emptySet();
+			throw new RuntimeException("Couldn't identify start element in XML stream.");
 		} finally {
 			closeQuietly( eventReader );
 		}
