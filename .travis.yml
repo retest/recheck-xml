@@ -26,7 +26,7 @@ deploy:
   provider: releases
   api_key: "${GH_TOKEN}"
   file_glob: true
-  file: "./target/recheck-*.jar"
+  file: "./target/recheck-xml-*.jar"
   skip_cleanup: true
   on:
     tags: true
