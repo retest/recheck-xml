@@ -1,1 +1,2 @@
-de.retest.recheck.xml.RecheckXmlAdapter
+de.retest.recheck.xml.FileXmlRecheckAdapter
+de.retest.recheck.xml.StringXmlRecheckAdapter
