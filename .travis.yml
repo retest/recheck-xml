@@ -16,8 +16,7 @@ before_script:
 
 before_deploy:
   # decrypt ReTest secret key
-  - openssl aes-256-cbc -K $encrypted_58a7d4f10478_key -iv $encrypted_58a7d4f10478_iv
-      -in retest-gmbh-gpg.asc.enc -out retest-gmbh-gpg.asc -d
+  - openssl aes-256-cbc -K $encrypted_c0e00988996d_key -iv $encrypted_c0e00988996d_iv -in retest-gmbh-gpg.asc.enc -out retest-gmbh-gpg.asc -d
   # import decrypted ReTest secret key
   - gpg --fast-import retest-gmbh-gpg.asc
   # package JARs for release providers
@@ -27,7 +26,7 @@ deploy:
   provider: releases
   api_key: "${GH_TOKEN}"
   file_glob: true
-  file: "./target/recheck-*.jar"
+  file: "./target/recheck-xml-*.jar"
   skip_cleanup: true
   on:
     tags: true
