@@ -1,5 +1,7 @@
 package de.retest.recheck.xml;
 
+import static de.retest.ui.descriptors.RetestIdProviderUtil.getRetestId;
+
 import javax.xml.stream.events.XMLEvent;
 
 import de.retest.ui.descriptors.IdentifyingAttributes;
@@ -11,9 +13,10 @@ public class XMLEventToRootElementConverter extends XMLEventToElementConverter {
 		super( null, 0, event );
 	}
 
+	@Override
 	public RootElement createElement() {
 		final IdentifyingAttributes identifyingAttributes = new IdentifyingAttributes( this.identifyingAttributes );
-		final RootElement result = new RootElement( identifyingAttributes, attributes.immutable(), null,
+		final RootElement result = new RootElement( getRetestId( identifyingAttributes ),identifyingAttributes, attributes.immutable(), null,
 				containedComponents, null, 1, null );
 		return result;
 	}

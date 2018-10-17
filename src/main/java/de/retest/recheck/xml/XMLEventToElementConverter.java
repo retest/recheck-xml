@@ -1,5 +1,7 @@
 package de.retest.recheck.xml;
 
+import static de.retest.ui.descriptors.RetestIdProviderUtil.getRetestId;
+
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Iterator;
@@ -62,7 +64,7 @@ public class XMLEventToElementConverter {
 
 	protected Element createElement() {
 		final IdentifyingAttributes identifyingAttributes = new IdentifyingAttributes( this.identifyingAttributes );
-		final Element result = new Element( identifyingAttributes, attributes.immutable(), containedComponents );
+		final Element result = new Element(getRetestId( identifyingAttributes ), identifyingAttributes, attributes.immutable(), containedComponents );
 		return result;
 	}
 
