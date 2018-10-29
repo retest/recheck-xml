@@ -1,6 +1,7 @@
 # ![recheck logo](https://user-images.githubusercontent.com/1871610/41766965-b69d46a2-7608-11e8-97b4-c6b0f047d455.png) for XML
 
 [![Build Status](https://travis-ci.com/retest/recheck-xml.svg?branch=master)](https://travis-ci.com/retest/recheck-xml)
+[![Latest recheck-xml on Maven Central](https://maven-badges.herokuapp.com/maven-central/de.retest/recheck-xml/badge.svg?style=flat)](https://mvnrepository.com/artifact/de.retest/recheck-xml)
 [![license](https://img.shields.io/badge/license-AGPL-brightgreen.svg)](https://github.com/retest/recheck-xml/blob/master/LICENSE)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg)](https://github.com/retest/recheck-xml/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
 [![code with hearth by retest](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-retest-C1D82F.svg)](https://retest.de/en/)
@@ -24,17 +25,13 @@ Instead of manually defining individual aspects that you want to check, check ev
 And even better: using the [retest GUI](https://retest.de/en/) (or the soon to come open source CLI), you can easily accept those changes with a single click (patent pending). This also saves a lot of time during maintenance. Any regular changing aspects or elements can easily be ignored.
 
 
-## Usage
+## Setup
 
-Download recheck-xml [directly](https://github.com/retest/recheck-xml/releases/) or add it as a Maven dependency in your POM:
+Download recheck-xml here on [GitHub](https://github.com/retest/recheck-xml/releases/) or add it as dependency through [Maven Central](https://search.maven.org/search?q=g:de.retest%20a:recheck-xml):
 
-```
-<dependency>
-	<groupId>de.retest</groupId>
-	<artifactId>recheck-xml</artifactId>
-	<version>0.1.0</version>
-</dependency>
-```
+* group ID: `de.retest`
+* artifact ID: `recheck-xml`
+* version: [![Latest recheck-xml on Maven Central](https://maven-badges.herokuapp.com/maven-central/de.retest/recheck-xml/badge.svg?style=flat)](https://mvnrepository.com/artifact/de.retest/recheck-xml)
 
 ### Prerequisites
 
